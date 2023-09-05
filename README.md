@@ -1,2 +1,2 @@
 # EEG_SincNet
-Interfaces cerebro-ordenador basadas en EEG para la síntesis de voz
+Título del proyecto: Interfaces cerebro-ordenador basadas en EEG para la síntesis de voz
